@@ -1,3 +1,4 @@
 Subida del proyecto
 
 se agrego el controller del usuario2
+Agregar controller user1
