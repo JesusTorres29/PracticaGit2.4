@@ -1,1 +1,3 @@
 Subida del proyecto
+
+se agrego el controller del usuario2
